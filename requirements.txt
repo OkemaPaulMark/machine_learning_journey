@@ -1,0 +1,15 @@
+## 📄 `requirements.txt`
+
+```txt
+pandas
+numpy
+scikit-learn
+xgboost
+matplotlib
+seaborn
+streamlit
+jupyter
+joblib
+tensorflow
+keras
+scipy

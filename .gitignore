@@ -1,0 +1,30 @@
+# Ignore Python virtual environment
+.venv/
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore model files and large data
+*.h5
+*.pt
+*.pkl
+*.joblib
+*.npy
+*.npz
+*.ckpt
+
+
+# Ignore logs
+*.log
+
+# System/IDE files
+.DS_Store
+.env
+*.swp
+.vscode/
+.idea/
