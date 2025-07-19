@@ -18,6 +18,10 @@ __pycache__/
 *.npz
 *.ckpt
 
+*.png
+*.jpeg
+.media
+.png.jpeg
 
 # Ignore logs
 *.log
